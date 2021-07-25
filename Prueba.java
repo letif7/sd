@@ -2,7 +2,7 @@ public class Prueba {
 
 	public static void main(String[] args) {		
 		System.out.println("Esta es una prueba de funcionamiento");
-		System.out.println("Prueba para guardar el segundo commit");
+		System.out.println("Prueba para guardar el segundo");
 	}
 
 }
